@@ -9,7 +9,7 @@ import java.util.Scanner;
  *
  * @author RC_Student_lab
  */
-public class HungerClass {
+public class HungerClass1 {
 
     /**
      * @param args the command line arguments
