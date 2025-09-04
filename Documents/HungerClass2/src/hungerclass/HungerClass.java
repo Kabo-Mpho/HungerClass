@@ -17,7 +17,7 @@ public class HungerClass {
     public static void main(String[] args) {
         // TODO code application logic here
         Scanner hunger = new Scanner(System.in);
-        System.out.println("Hi hi, what's your name?");
+        System.out.println("Hi hi, what's your name?mmmmm");
         String name = hunger.nextLine();
         
         System.out.println("Hi " + name + " what is your favourite meal?");
